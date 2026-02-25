@@ -8,11 +8,11 @@
 
 ## 🧠 Sobre mim
 
-Sou engenheiro formado pela Universidade Federal de Pernambuco (UFPE) com forte atuação em desenvolvimento backend e integração com sistemas embarcados.
+Engenheiro de Controle e Automação (UFPE) com atuação profissional em desenvolvimento backend e arquitetura de sistemas distribuídos.
 
-Tenho experiência profissional desenvolvendo APIs escaláveis com Django, Django Rest Framework, Celery e sistemas baseados em mensageria (RabbitMQ, Redis, MQTT).
+Desenvolvo APIs escaláveis com Django e Django Rest Framework, utilizo Celery para processamento assíncrono e trabalho com arquiteturas orientadas a eventos utilizando RabbitMQ, Redis e MQTT.
 
-Atualmente trabalho com arquitetura de microsserviços, Docker, processamento assíncrono e integração com dispositivos IoT (ESP32).
+Atuo com microsserviços, containerização com Docker e integração entre dispositivos IoT (ESP32) e backend, garantindo comunicação confiável e escalável entre hardware e software.
 
 ---
 
@@ -63,12 +63,6 @@ Consultor de Projetos
 
 **Watt** – Empresa Júnior de Engenharia Elétrica / Controle e Automação  
 Consultor de Projetos → Gerente de Projetos
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josevitor11001&show_icons=true&theme=radical)
 
 ---
 

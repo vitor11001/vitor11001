@@ -54,6 +54,7 @@ Atuo com microsserviços, containerização com Docker e integração entre disp
 
 ### 💼 Senfio
 Estagiário Técnico em Eletrônica → Estagiário de Engenharia de Controle e Automação → Desenvolvedor
+
 Atuação direta no desenvolvimento de APIs e integração com dispositivos IoT.
 
 ### ⚡ Empresas Juniores – UFPE

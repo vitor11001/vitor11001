@@ -88,4 +88,4 @@ Consultor de Projetos → Gerente de Projetos
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-80b37a210/?trk=opento_sprofile_topcard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvitorleaommoraes)
